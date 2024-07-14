@@ -11,7 +11,7 @@ INSERT INTO
 
 UPDATE
 
-![UPDATE](https://github.com/user-attachments/assets/f8f6b872-6001-4241-bcdc-e34bc7531ca5)
+![UPDATE](https://github.com/user-attachments/assets/6a03058e-5449-4c12-b5a3-8a15becf21f1)
 
 DELETE
 
